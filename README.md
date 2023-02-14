@@ -1,6 +1,9 @@
 # ChatBot
 Simple Chat Bot App using Neural Network Based on First Python Chatbot by Shivashish Thkaur 
 
+![Github Repo stars](https://img.shields.io/badge/Python-v2.8-green)
+![Github Repo stars](https://img.shields.io/badge/tensorflow-v2.9.1-blue)
+
 This project is using a Text Classification to predict the intentions or the purpose of the conversation eg. Greetings, Goodbye, Thanks, etc and produce the response based on the intentions.
 
 Here is the Link : 
